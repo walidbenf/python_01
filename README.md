@@ -2,9 +2,9 @@
 
 ### Dive into Python like never before!
 
+![Build Status](https://img.shields.io/badge/build-passing-success?style=flat&logo=appveyor)
 
-
-
+![](https://img.shields.io/badge/note-100%2F100-success?style=flat&logo=appveyor)
 
 ## Summary:
 
